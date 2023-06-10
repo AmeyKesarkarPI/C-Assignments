@@ -1,0 +1,17 @@
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ProdcutCatalog.exe.config
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ProdcutCatalog.exe
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ProdcutCatalog.pdb
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.exe
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.pdb
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ClosedXML.dll
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\System.IO.Packaging.dll
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ClosedXML.pdb
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ClosedXML.xml
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Amey.Kesarkar\source\repos\ProdcutCatalog\ProdcutCatalog\obj\Debug\ProdcutCatalog.csproj.CopyComplete

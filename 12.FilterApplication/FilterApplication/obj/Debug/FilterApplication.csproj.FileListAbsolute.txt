@@ -1,0 +1,8 @@
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\obj\Debug\FilterApplication.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\obj\Debug\FilterApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\obj\Debug\FilterApplication.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\bin\Debug\FilterApplication.exe.config
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\bin\Debug\FilterApplication.exe
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\bin\Debug\FilterApplication.pdb
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\obj\Debug\FilterApplication.exe
+C:\Users\Amey.Kesarkar\source\repos\FilterApplication\FilterApplication\obj\Debug\FilterApplication.pdb

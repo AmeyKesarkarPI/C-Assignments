@@ -1,0 +1,17 @@
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\GenericPages.exe.config
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\GenericPages.exe
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\GenericPages.pdb
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.exe
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.pdb
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\ClosedXML.dll
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\System.IO.Packaging.dll
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\ClosedXML.pdb
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\ClosedXML.xml
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Amey.Kesarkar\source\repos\GenericPages\GenericPages\obj\Debug\GenericPages.csproj.CopyComplete

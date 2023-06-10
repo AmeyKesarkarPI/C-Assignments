@@ -1,0 +1,16 @@
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.exe.config
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.exe
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.pdb
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.exe
+C:\Users\Amey.Kesarkar\source\repos\SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.pdb
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.exe.config
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.exe
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\bin\Debug\SuccessivePairs.pdb
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.exe
+C:\Users\Amey.Kesarkar\Desktop\C#Assignments\6.SuccessivePairs\SuccessivePairs\obj\Debug\SuccessivePairs.pdb

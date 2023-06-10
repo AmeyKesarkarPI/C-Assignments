@@ -1,0 +1,8 @@
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\bin\Debug\IP.exe.config
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\bin\Debug\IP.exe
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\bin\Debug\IP.pdb
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\obj\Debug\IP.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\obj\Debug\IP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\obj\Debug\IP.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\obj\Debug\IP.exe
+C:\Users\Amey.Kesarkar\source\repos\IP\IP\obj\Debug\IP.pdb

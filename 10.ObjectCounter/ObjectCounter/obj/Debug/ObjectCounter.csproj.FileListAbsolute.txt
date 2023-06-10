@@ -1,0 +1,8 @@
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\bin\Debug\ObjectCounter.exe.config
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\bin\Debug\ObjectCounter.exe
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\bin\Debug\ObjectCounter.pdb
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\obj\Debug\ObjectCounter.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\obj\Debug\ObjectCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\obj\Debug\ObjectCounter.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\obj\Debug\ObjectCounter.exe
+C:\Users\Amey.Kesarkar\source\repos\ObjectCounter\ObjectCounter\obj\Debug\ObjectCounter.pdb
